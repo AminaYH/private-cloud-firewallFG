@@ -1,2 +1,2 @@
 # private-cloud-firewallFG
-**** how to use FortiGate(VMWARE as hypervisor) *****
+**** FortiGate(VMWARE as hypervisor) *****
